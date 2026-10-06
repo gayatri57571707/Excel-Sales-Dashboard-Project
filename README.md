@@ -1,2 +1,26 @@
-# Excel-Sales-Dashboard-Project
-Interactive Excel Sales Dashboard project created to analyze sales performance, revenue, profit, COGS, product performance, and regional sales trends using Microsoft Excel.
+# Excel Sales Dashboard
+
+An interactive Sales Dashboard created using Microsoft Excel to analyze business sales performance.
+
+## Project Overview
+
+This dashboard provides insights into:
+
+* Total Sales
+* Profit
+* COGS
+* Product Performance
+* Regional Sales
+* Sales Trends
+
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Excel Formulas
+
+## Dashboard Preview
+
+![Sales Dashboard](Sales_Dashboard.png)
